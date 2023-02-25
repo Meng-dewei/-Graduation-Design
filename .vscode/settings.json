@@ -1,0 +1,11 @@
+{
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "aiXcoder.showTrayIcon": true,
+    "python.pythonPath": "C:\\Python3.7.8\\python.exe",
+    "python.linting.pylintEnabled": false,
+    "python.linting.pep8Enabled": true,
+    "python.linting.lintOnSave": true,
+    "python.formatting.provider": "yapf",
+    "autoDocstring.docstringFormat": "numpy",
+    "autoDocstring.includeExtendedSummary": false
+}
