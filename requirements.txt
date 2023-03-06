@@ -5,6 +5,7 @@ librosa==0.6.0
 matplotlib==3.0.3
 mido==1.2.9
 mir_eval==0.5
+music21==7.3.3
 numpy==1.21.6
 piano_transcription_inference==0.0.5
 pretty_midi==0.2.9
@@ -16,3 +17,4 @@ SQLAlchemy==1.4.46
 synthviz==0.0.2
 torch==1.4.0+cu92
 torchlibrosa==0.0.4
+tqdm==4.64.1
